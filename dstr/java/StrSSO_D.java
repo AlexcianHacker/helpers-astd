@@ -20,3 +20,4 @@ class StrSSO_D {
   public String toString() { 
     return this.iStr[] + this.aStr; 
   } 
+} 
