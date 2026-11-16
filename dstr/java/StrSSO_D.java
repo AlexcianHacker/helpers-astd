@@ -10,7 +10,8 @@ class StrSSO_D {
       this.aStr += addchars; 
       return 0; 
     } 
-    aStr = 
+    aStr = addchars[]; 
+    return 0; 
   } 
   public String get() { 
     return this.iStr[] + this.aStr; 
