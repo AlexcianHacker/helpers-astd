@@ -1,5 +1,9 @@
-# <p align="center"> gui-astd
-<p align="center"> Simple Wrappers Around GUI Methods, First Used In FFYCLI <br> 
+# <p align="center"> helpers-astd
+<p align="center"> Simple Wrappers Around Common Methods, Helper Functions; First Started Out As GUI Wrappers In FFYCLI <br> 
+
+
+
+# <p align="center"> GUI Wrappers And Helpers 
 
 <p align="center"> Current Wrappers For: <br> 
 - tkinter (Python) <br> 
