@@ -1,11 +1,11 @@
 class StrSSO_D { 
-  private char iStr[]; 
+  private final char iStr[]; 
   private String aStr = null; // Replace With Some Other Type Later 
-  public StrSSO_D(char initStr[]) { 
+  public StrSSO_D(final char initStr[]) { 
     this.iStr = initStr; 
     return this; 
   } 
-  public short append(char addchars[]) { 
+  public short append(final char addchars[]) { 
     if (aStr != null) { 
       this.aStr += addchars; 
       return 0; 
